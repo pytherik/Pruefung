@@ -93,7 +93,7 @@ Komplexe Vorgänge ...
 Einteilung von Projekten in Gruppen bietet die Möglichkeit der 
 - unterschiedlichen Herangehensweise
 - unterschiedlichen Risikobetrachtung
-- vergleichbarkeit von Projekten gleicher Gruppen
+- Vergleichbarkeit von Projekten gleicher Gruppen
 
 <img src="04_projektarten.png" width="500">
 
@@ -223,3 +223,21 @@ Häufig die längste Phase
 - Dokumentationsabschluss
 - Teamauflösung
 - Lessons Learned
+
+# Projektziele
+
+[Wikipedia:](https://de.wikipedia.org/wiki/Projektziel)
+> Projektziele sind die Aufstellung von möglichst quantifizierten Anforderungen, 
+> die erfüllt sein müssen, damit ein Projekt als erfolgreich abgeschlossen betrachtet  
+> werden kann.  
+
+### Magisches Dreieck
+
+Das magische Dreieck beschreibt die drei wichtigsten Zielgrößen eines Projekts:
+
+<img src="07_magisches_dreieck.png" width="300">
+
+- Leistung : was, welches Ergebnis wollen wir erreichen bzw erarbeiten?
+- Zeit: bis zu welchem Termin soll das Projekt abgeschlossen sein?
+- Kosten: wieviel darf es kosten?
+- 
