@@ -673,3 +673,172 @@ kurz
 | kontinuierlicher Verbesserungsprozess                | pot. Verunsicherung d. fehlende Zuständigkeiten und Hierarchien |
 | kurzfristige Problemidentifikation                   | pot. Unvereinbarkeit mit Unternehmensstrukturen                 |
 | geringer Administrations- und Dokumentationsaufwand  |                                                                 |
+
+
+# Projektstrukturplan (PSP)
+
+> Vollständige Darstellung aller inhaltlichen Elemente eise Projekts und irer Beziehungen.  
+> Wird untergliedert in Teilprojekte, Teilaufgaben und Aufgabenpakete.  
+> Hierarchische Darstellung in Baumstruktur, enthält keine Zeitangaben zur Abarbeitung.  
+> Typisch für klassisches Projektmanagement (Wasserfallmodell), in agilen Projekten kann  
+> es aufgeweichte Formen des PSP geben.  
+> 
+>![img.png](17_projektstrukturplan.png)  
+> englische Bezeichnung: WBS (Work Breakdown Structure)  
+
+### Vorteile eines PSP
+
+- alles auf einen Blick
+- vollständige Darstellung
+- Kommunikationsgrundlage
+- Basis für Aufgabenverteilung
+- im Team erarbeitet
+- Grundlage für weitere Pläne
+
+## Gliedeungsprinzipien, Orientierungen
+
+### Objektorientierung
+> Der PSP ist nach konkreten Elementen, Bauteilen oder Objekten gegliedert
+> 
+
+![img.png](18_psp_objektorientierung.png)
+
+### Aktivitätsorientierung (Funktionsorientierung)
+> Tätigkeiten und Aktivitäten stehen im Vordergrund
+
+<img src="19_psp_aktivitaetsorientierung.png" width="705">  
+
+### Phasenorientierung
+> Die definierten Projektphasen sind auf der ersten Gliederungsebene.  
+> Alle weiteren Ebenen können enweder objekt- oder aktivitätsorientiert sein.  
+
+![img.png](20_psp_phasenorientierung.png)
+
+### Gemischtorientierung
+> Verschiedene Gliederungsprinzipien können verbunden werden.  
+> Aber: auf einer Ebene gibt es immer nur ein Gliederungsprinzip.  
+
+![img.png](21_psp_gemischtorientierung.png)
+
+## Codierung
+> Es gibt verschiedene Arten von Codierungen, um die Elemente im PSP  
+> deutlich unterscheidbar zu machen. In der Codierung ist auch die  
+> hierarchische Positionierung eines Elements abgebildet.  
+
+- Numerische Codierung: 1, 1.1, 1.1.2 usw.
+- Dekadische Codierung: 10er Format: 1000, 1100, 1110, usw.
+- Alphabetische Codierung: A, AA, AB, usw.
+- Alphanumerische Codierung: A, A1, A1.1 usw.
+
+![img.png](22_psp_codierung.png)
+
+## PSP Erstellung
+
+### 1. Gliederung festlegen
+Entscheiden, ob nach Phasen, Objekten oder Aktivitäten  
+gegliedert werden soll.
+### 2. Vorgehen festlegen
+- wer ist alles beteiligt ?
+- Top Down: von oben nach unten aufgliedern oder
+- Bottom Up: von unten nach oben strukturieren
+### 3. Ausgangsinformationen sammeln
+Vorhandene Informationen nutzen:
+- Risikoanalyse: zu berücksichtigende Maßnahmen einbeziehen
+- Maßnahmen aus Stakeholderanalyse einbeziehen
+- Aktivitäten aus Zielanalyse ableiten
+### 4. Arbeitspakete sammeln
+- Aufgaben sammeln z.B. über Brainstorming
+- möglichst alle zu erledigenden Aufgaben erfassen
+### 5. Arbeitspakete strukturieren
+- Zusammenfassen und Untergliedern
+  - Teilprojekte
+  - Teilaufgaben
+  - Arbeitspakete
+
+# Netzplantechnik
+
+> Im Netzplan werden alle Vorgänge eines Projektes nach ihren Abhängigkeiten  
+> und Reihenfolgen verkettet und grafisch dargestellt. So wird die Dauer des  
+> Projekts und der kritische Pfad ermittelt. Jeder Vorgang wird durch einen  
+> Vorgangsknoten repräsentiert, der Start- und Endzeitpunkte sowie  
+> Pufferzeiten enthält.  
+
+## Vorgangsknoten-Netzplan
+- früheste und späteste Zeitpunkte
+- Pufferzeiten
+- Projektdauer
+- Kritischer Pfad
+
+## Vorgehensweise
+
+### Informationen im Vorgangsknoten
+<img src="23_info_vorgangsknoten.png" width="430">
+
+### vorgegebene Vorgangsliste
+
+![img.png](24_netzplan_vorgangsliste.png)  
+
+### 1. Verknüpfung der Vorgänge mit Anordnungsbeziehungen
+
+<img src="25_netzplan_anordnungsbeziehungen.png" width="650">
+
+### 2. Vorwärtsrechnung
+- früheste Anfangszeitpunkte (FAZ)
+  - immer 0!
+- früheste Endzeipunkte (FEZ)
+- Projektdauer  
+> FEZ = FAZ + D  
+> bei Normalfolge:  
+> FAZ = größter FEZ vom Vorgänger  
+
+<img src="26_netzplan_vorwaertsrechnung.png" width="650">
+
+### 3. Rückwärtsrechnung
+- späteste Anfangszeitpunkte (SAZ)
+- späteste Endzeitpunkte (SEZ)
+
+> SAZ = SEZ -D  
+> bei Normalfolge:  
+> SEZ = SAZ vom Nachfolger  
+
+<img src="27_netzplan_rueckwaertsrechnung.png" width="650">
+
+### 4. Pufferzeiten
+- Gesamtpuffer (GP)
+- Freier Puffer (FP)
+- Kritischer Pfad
+
+### Darstellung im Gantt Diagramm (Balkenplan)  
+> GP = SEZ - FEZ = SAZ - FAZ  
+
+<img src="28_gantt_diagramm.png" width="650">  
+
+> Freier Puffer (FP)  
+> **FP = niedrigster FAZ der/des Nachfolger/s - FEZ**  
+> beschreibt, wie weit ein Vorgang verschoben oder verlängert werden kann,  
+> ohne dass es Einfluss auf die Lage der benachbarten Vorgänge hat.  
+
+<img src="29_gantt_freier_puffer_vs_gesamtpuffer.png" width="650">  
+
+### Kritischer Pfad
+- alle Vorgänge, bei denen sich eine Verzögerung unmittelbar  
+  auf den Projektendtermin auswirkt
+- für jeden Vorgang auf dem Pfad gilt: **GP = 0**
+- diese Vorgänge bestimmen die **Gesamtprojektdauer**
+
+## Netzplan und Gantt-Chart im Vergleich
+
+| Netzplan                             | Gantt-Chart                    |
+|--------------------------------------|--------------------------------|
+| Abhängigkeiten der Vorgänge          | Abhängigkeiten der Vorgänge    |
+| Berechnung der:                      | Darstellung:                   |
+| - frühesten und spätesten Zeitpunkte | - von Ablauf und Terminplanung |
+| - Puffer                             | - des Projektstandes           |
+| - Projektdauer                       | - von Planänderungen           |
+| Bestimmung des Kritischen Pfads      |                                |
+
+### Einbeziehung von Meilensteinen im Gantt-Chart
+> Meilensteine sind Zeitpunkte, haben keine Dauer und werden  
+> als Rauten dargestellt.  
+> 
+<img src="30_gantt_chart_meilensteine.png" width="500">
