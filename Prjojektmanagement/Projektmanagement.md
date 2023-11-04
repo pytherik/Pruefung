@@ -76,7 +76,7 @@ Komplexe Vorgänge ...
 |--------------------------|-----------------------------|
 | Bauunternehm Einf.Häuser | managen von Arbeitspaketen  |
 | Werkzeugbau(mittelst.)   | Investitions, Optimierungs, |
-|                          | und OrganisationsProjekte   |
+|                          | und Organisations-Projekte  |
 | Kreativagenturen         | Kundenprojekte, Websites,   |
 |                          | Marketingkampagnen,         |
 |                          | IT-Projekte: neue Software  |
@@ -107,7 +107,7 @@ Einteilung von Projekten in Gruppen bietet die Möglichkeit der
 -  intern oder extern
 
  **Innovationsgrad**
--  Routine-, Innovations, Akzeptanz- oder Changeprojekt
+-  Routine-, Innovations-, Akzeptanz- oder Changeprojekt
 
  **Größe**
 -  klein - mittel - groß
@@ -144,7 +144,7 @@ Sammelbegriff für verschiedene Projektmanagement-Methoden wie Scrum oder Kanban
 - iterative Abarbeitung in kurzen Zyklen
 - Orientierung an Kundenwünschen
 - Feedback und Kommunikation
-- schnelles, proaktive Reaktions auf Änderungswünsche
+- schnelle, proaktive Reaktion auf Änderungswünsche
 - Selbstorganisation der Teams
 
 Es gibt keinen Projektleiter, alle Aufgaben des Projektmanagements verteilen sich  
@@ -160,7 +160,7 @@ Projektinhalte.
 
 ## Soft Skills
 
-Soft Skills sind Fähigkeiten mit anderen zu inteagieren, also soziale Kompetenz.  
+Soft Skills sind Fähigkeiten mit anderen zu interagieren, also soziale Kompetenz.  
 - zeigen sich im Umgang miteinander
 - im Verhalten einer Person
 - sind teilweise subjektiv
@@ -181,8 +181,6 @@ Projekten in 4 Phasen.
 
 <img src="06_pm_phasen.png" width="600">
 
-### Magisches Dreieck
-<img src="07_magisches_dreieck.png" width="300">
 
 ## 1. Projektstart
 Der Projektstart ist ein iterativer Prozess.  
@@ -196,7 +194,7 @@ Er beinhaltet zum Beispiel
 - fertiger Projektsteckbrief, wird oft zum offiziellen Projektauftrag
 
 ## 2. Projektplanung
-Besonders im klassischen Projektmanagement liegt hierauf stark fokussiert.  
+Besonders im klassischen Projektmanagement wird hierauf stark fokussiert.  
 
 - Grobplanung 
   - Phasen und Meilensteine festlegen
@@ -257,24 +255,24 @@ Diese Funktionen werden durch eine klare Zielstellung erfüllt
   - Entscheidungshilfe bei mehreren Optionen
 
 ## Projektziele definieren
-1. Ziele ermitteln  
-  1a. nicht offensichtlichen Anforderungen bestimmen  
-  1b. übergeordnete Unternehmensziele berücksichtigen  
-  1c. Projektumfeld, gesetzliche Regelungen
-  1d. interessen von Stakeholdern
-2. Ziele sauber formulieren (S.M.A.R.T Formel)
-3. Nicht-Ziele nennen  
-  3a. klarer Verzicht auf Inhalte beugt Missverständnissen vor  
-  3b. ein Ausufern des Projekts (Scope Creep) kann verhindert werden
-4. Ziele priorisieren: **muss-, soll-, kann-Ziele**  
-  4a. Konkurrenz: es soll komplex sein, muss aber schnell gehen  
-  4b. muss billig sein, soll aber das beste Ergebnis erzielen
-5. Zielbeziehungen analysieren  
-  5a. Zielidentität (identische Ziele unterschiedlich formuliert)  
-  5b. Zielkomplementarität (gegenseitige Unterstützung)  
-  5c. Zielneutralität (keine Beziehungen untereinander, keine Beeinflussung)  
-  5d. Zielkonkurrenz (gegenseitige Behinderung)  
-  5e. Zielautonomie (Ziele schliessen sich gegenseitig aus)  
+#### 1. Ziele ermitteln  
+- nicht offensichtlichen Anforderungen bestimmen  
+- übergeordnete Unternehmensziele berücksichtigen  
+- Projektumfeld, gesetzliche Regelungen  
+- Interessen von Stakeholdern
+#### 2. Ziele sauber formulieren (S.M.A.R.T Formel)
+#### 3. Nicht-Ziele nennen  
+- klarer Verzicht auf Inhalte beugt Missverständnissen vor  
+- ein Ausufern des Projekts (Scope Creep) kann verhindert werden
+#### 4. Ziele priorisieren: **muss-, soll-, kann-Ziele**  
+-  Konkurrenz: es soll komplex sein, muss aber schnell gehen  
+- muss billig sein, soll aber das beste Ergebnis erzielen
+#### 5. Zielbeziehungen analysieren  
+-  Zielidentität (identische Ziele unterschiedlich formuliert)  
+- Zielkomplementarität (gegenseitige Unterstützung)  
+- Zielneutralität (keine Beziehungen untereinander, keine Beeinflussung)  
+- Zielkonkurrenz (gegenseitige Behinderung)  
+- Zielautonomie (Ziele schliessen sich gegenseitig aus)  
 
 ## Teilaspekte von Zielen
 
@@ -374,7 +372,7 @@ Diese Funktionen werden durch eine klare Zielstellung erfüllt
 
 1. Festlegen von Entscheidungsalternativen, Problemstellung
 2. Definition von Bewertungskriterien (Ziel, Anforderungen erreicht)
-3. Gewichtung der kriterien (absolut/prozentual)
+3. Gewichtung der Kriterien (absolut/prozentual)
 4. Festlegen des Bewertungsmaßstabs (Skala 1-6, sehr schlecht - sehr gut)
 5. Bewertung, Punktevergabe, Gewichtung
 6. Einzelgewichtung aus 5. (gewichtete Punktzahl / Handlungsalternativen)
@@ -393,8 +391,8 @@ Diese Funktionen werden durch eine klare Zielstellung erfüllt
 | alte Maschinen | Maschine fällt aus | Produktionsrückgang  |
 
 ### Ursachen
-Über eine Ursache besteht keine Unsicherheit, sie ist eine Tatsache.  
-Sie kann zum Eintritt von Risiken führen, muss aber nicht.
+> Über eine Ursache besteht keine Unsicherheit, sie ist eine Tatsache.  
+> Sie kann zum Eintritt von Risiken führen, muss aber nicht.
 
 ### Risiken
 
@@ -404,9 +402,9 @@ Sie kann zum Eintritt von Risiken führen, muss aber nicht.
 - Eintreten von ungeplanten oder *nicht* Eintreten von geplanten Ereignissen
 
 ### Auswirkungen
-Ergeben sich bei eingetretenem Risiko.  
-Äußern sich in einer Abweichung von den Projektzielen und  
-verursachen einen Schaden.  
+- ergeben sich bei eingetretenem Risiko.  
+- äußern sich in einer Abweichung von den Projektzielen  
+- verursachen einen Schaden.  
 
 ## Die 7 Schritte des Risikomanagements
 
@@ -464,7 +462,7 @@ Finden der EW beruht meist nur auf groben Schätzungen
 - Betrachtung der Vergangenheit
 - Statistiken
 - Vergleich von Risiken untereinander
-- !gelassen bleiben!
+- **gelassen bleiben**
 
 ## Tragweite (TW in Geldwert)
 Einfacher und genauer als das finden der EW
@@ -477,7 +475,7 @@ Einfacher und genauer als das finden der EW
 > Der Risikowert macht Risiken besser vergleichbar und Maßnahmen  
 > können bewertet werden.  
 
-### Beispiel Risiko Maschinenausfall
+### Beispiel Risiko Ausfall einer Maschine
 EW = 10%
 TW = 100.000€
 RW = 0.1 x 100.000 = 10.000€
@@ -488,7 +486,7 @@ TW = 10.000€
 RW = 0.05 x 10.000€ = 500€
 
 > #### ACHTUNG: Es gibt auch nicht berechenbare, inakzeptable Risiken wie  
-> #### die gefährdung von Menschenleben oder Umweltzerstörungen.  
+> #### die Gefährdung von Menschenleben oder Umweltzerstörungen.  
 
 # Qualitätsmanagement
 > Qualität ist das Maß in dem ein Objekt den Anforderungen entspricht  
@@ -496,7 +494,7 @@ RW = 0.05 x 10.000€ = 500€
 > Es braucht konkrete Kriterien in Form von **Kennzahlen**.  
 
 Objekte in diesem Sinne sind:
-- Ware
+- Waren
 - Dienstleistungen
 - Prozesse
 
@@ -543,13 +541,47 @@ Der Qualitätssicherungsplan kann tabellarischer Natur sein
 |------------------|---------|---------------------------|-------------|-------------|   
 |                  |         |                           |             |             |
 
+# DIN EN ISO 9000 ff
+
+> DIN: Deutsches Institut für Normung  
+> EN: Europäische Norm  
+> ISO: Internationale Organisation für Normung (International Organization for Standardization)  
+> IEC: Internationale Elektrotechnische Kommission (International Electrotechnical Commission)  
+
+## ISO 9000
+
+### Die sieben Grundsätze des Qualitätsmanagements (vor 2015 noch acht)  
+1. Kundenorientierung
+2. Verantwortlichkeit der Führung
+3. Einbeziehung der beteiligten Personen 
+4. Prozessorientierter Ansatz und (früher eigenständig) Systemorientierter Managementansatz
+5. Kontinuierliche Verbesserung
+6. Sachbezogener Entscheidungsfindungsansatz
+7. Lieferantenbeziehungen zum gegenseitigen Nutzen
+
+## ISO 9001
+> legt die Mindestanforderungen an ein Qualitätsmanagementsystem (QM-System) fest,  
+> denen eine Organisation zu genügen hat, um Produkte und Dienstleistungen bereitstellen  
+> zu können, welche die Kundenerwartungen sowie allfällige behördliche Anforderungen  
+> erfüllen. Zugleich soll das Managementsystem einem stetigen Verbesserungsprozess unterliegen.  
+
+## ISO 9004 
+> Leitfaden zur Wirksamkeit und Effizienz ein QM-Systems.  
+> Enthält Anleitungen zur Ausrichtung eines Unternehmens in Richtung  
+> Total-Quality-Management(TQM).  
+> Keine Zertifizierungs- oder Vertragsgrundlage, kann als Anleitung zur Selbstbewertung  
+> genutzt werden.  
+> Im Anhang Listen mit Hinweisen zu Reifegraden 1-5 (minimal bis Spitzenleistung).  
+> blablablablabla
+
+ 
 # Lastenheft und Pflichtenheft
 
-## Latenheft (Statement of Work)
+## Lastenheft (Statement of Work)
 > Ein Lastenheft ist ein Dokument, in dem die Anforderungen das Auftraggebers an  
 > ein Projektergebnis genau beschrieben werden. Damit wird der sogenannte Leistungsumfang  
 > definiert. Traditionell wird ein Lastenheft vom Auftraggeber erstellt und an mögliche  
-> Angieter verschickt, die daraufhin ein Angebot erstellen können.  
+> Anbieter verschickt, die daraufhin ein Angebot erstellen können.  
 
 kurz
 - Internes Dokument des **Auftraggebers** über dessen Anforderungen
@@ -562,9 +594,9 @@ kurz
 
 ### Vorteile von Lastenheften
 
-- KLarheit über Anforderungen
+- Klarheit über Anforderungen
 - Wiedersprüche und Probleme
- - bei der Erstellung des LH können Schwachstellen früh erkannt werden
+  - bei der Erstellung des LH können Schwachstellen früh erkannt werden
 - Einfacher Prozess beim Einholen von Angeboten
   - Details sind bekannt, Kommunikationsaufwand wird reduziert
 - Vergleichbarkeit von Angeboten
@@ -578,7 +610,7 @@ kurz
 
 ### 1. **Formelles**
 - Kopfdaten: Ersteller, Datum usw.
-- Tabelle für Anderungshistorie
+- Tabelle für Änderungshistorie
 - Inhaltsverzeichnit
 ### 2. **Einführung/Überblick**
 - Beschreibung des Arbeitgebers
@@ -677,13 +709,13 @@ kurz
 
 # Projektstrukturplan (PSP)
 
-> Vollständige Darstellung aller inhaltlichen Elemente eise Projekts und irer Beziehungen.  
+> Vollständige Darstellung aller inhaltlichen Elemente eines Projekts und ihrer Beziehungen.  
 > Wird untergliedert in Teilprojekte, Teilaufgaben und Aufgabenpakete.  
 > Hierarchische Darstellung in Baumstruktur, enthält keine Zeitangaben zur Abarbeitung.  
 > Typisch für klassisches Projektmanagement (Wasserfallmodell), in agilen Projekten kann  
 > es aufgeweichte Formen des PSP geben.  
-> 
->![img.png](17_projektstrukturplan.png)  
+
+![img.png](17_projektstrukturplan.png)  
 > englische Bezeichnung: WBS (Work Breakdown Structure)  
 
 ### Vorteile eines PSP
@@ -739,8 +771,8 @@ Entscheiden, ob nach Phasen, Objekten oder Aktivitäten
 gegliedert werden soll.
 ### 2. Vorgehen festlegen
 - wer ist alles beteiligt ?
-- Top Down: von oben nach unten aufgliedern oder
-- Bottom Up: von unten nach oben strukturieren
+- von oben nach unten aufgliedern oder
+- von unten nach oben strukturieren
 ### 3. Ausgangsinformationen sammeln
 Vorhandene Informationen nutzen:
 - Risikoanalyse: zu berücksichtigende Maßnahmen einbeziehen
@@ -757,10 +789,9 @@ Vorhandene Informationen nutzen:
 
 # Netzplantechnik
 
-> Im Netzplan werden alle Vorgänge eines Projektes nach ihren Abhängigkeiten  
-> und Reihenfolgen verkettet und grafisch dargestellt. So wird die Dauer des  
-> Projekts und der kritische Pfad ermittelt. Jeder Vorgang wird durch einen  
-> Vorgangsknoten repräsentiert, der Start- und Endzeitpunkte sowie  
+> Im Netzplan werden alle Vorgänge eines Projektes nach ihren Abhängigkeiten und Reihenfolgen  
+> verkettet und grafisch dargestellt. So wird die Dauer des Projekts und der kritische Pfad ermittelt.  
+> Jeder Vorgang wird durch einen Vorgangsknoten repräsentiert, der Start- und Endzeitpunkte sowie  
 > Pufferzeiten enthält.  
 
 ## Vorgangsknoten-Netzplan
