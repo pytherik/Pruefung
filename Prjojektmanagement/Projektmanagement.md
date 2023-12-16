@@ -216,3 +216,31 @@ Häufig die längste Phase
 5. Bewertung, Punktevergabe, Gewichtung
 6. Einzelgewichtung aus 5. (gewichtete Punktzahl / Handlungsalternativen)
 
+## Machbarkeitsanalyse
+
+> kann so Umfangreich sein, dass sie als eigenes Projekt fungiert.  
+> 
+### Geprüft wird auf folgende Faktoren:
+
+- **Organisatorische** Umsetzung
+  - Vorhandensein von Fachkompetenz und Erfahrung  
+- **Wirtschaftliche** Machbarkeit
+  - Ertrag des Projekts rechtfertigt die Kosten
+  - Risikoerwägungen einbeziehen
+- **Technische** Machbarkeit
+  - die zur Verfügung stehenden Mittel genügen den zu erwartenden Umständen
+- **Ressourcen** und Verfügbarkeit
+  - ausreichende Mittel und Personal für die gesamte Projektdauer 
+- **Zeitliche** Umsetzung
+  - rechtzeitige Fertigstellung des Projekt möglich
+- **Rechtliche** Umsetzung
+  - Gesetze und Vorschriften werden eingehalten
+
+### Werkzeuge für die Machbarkeitsprüfung:
+
+- **Befragungen**
+  - Experten, Mitarbeiter, Kunden, Stakeholder
+- **Kosten-Nutzen-Analyse**
+- **Szenariotechnik**
+  - Betrachtung von **best case** und **worst case**
+  - realistisches Szenario
