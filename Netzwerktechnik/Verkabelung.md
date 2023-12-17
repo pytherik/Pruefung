@@ -11,6 +11,9 @@
 - Tertiärbereich (horizontal, waagerecht)
   - Etagenverkabelung EV
 
+## Lösung IHK
+
+<img src="../images/Netzwerktechnik/standortverkabelung_IHK.png" width="550">
 ## Begriffe und Abkürzungen
 
 ### EMV (Elektromagnetische Verträglichkeit)
@@ -25,3 +28,13 @@ Arten von Störungen
   - Knackstörung, Spannungspuls beim Abschalten bspw des Kühlschranks -> knacken im Radio
 - feldgebundene Störungen
   - Störfelder, Eindringen von Mobilfunk-Signalen in Audioeinrichtung
+
+
+### Vorteile bei Verwendung von Glasfaserkabeln (LWL = Lichtwellenleiter):
+- kein Nebensprechen (NEXT)
+- geringere Dämpfung
+- höhere Übertragungsraten
+- größere Reichweiten möglich
+- keine Erdung erforderlich
+- kein Potenzialausgleich erforderlich
+

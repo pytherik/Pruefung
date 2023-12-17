@@ -110,3 +110,120 @@ Projektleiter: "Ich hätte gern, dass *Sie* diesmal die Präsentation halten."
 > Paula fühlt sich unter Druck gesetzt und zieht sich zurück, weil sie keine Lust  
 > auf diese Vorwürfe hat und findet Gustav sei nur noch schlecht gelaunt.....  
 
+
+# Kommunikationspolitik (vierte Säule des Marketings)
+
+> Kommunikationspolitik bezeichnet die Gesamtheit aller Kommunikationsmaßnahmen  
+> innerhalb und außerhalb eines Unternehmens sowie deren Planung, Ausarbeitung,  
+> Abstimmung und Überprüfung mittels einer festgelegten Kommunikationsstrategie.  
+
+### Vier Säulen des Marketings
+- Product (Produktpolitik)
+- Price (Preispolitik)
+- Place (Distributionspolitik)
+- Promotion (Kommunikationspolitik)
+
+## Zielgruppe (Basis der Kommunikationspolitik)
+
+> Bedürfnisse und Wünsche der Zielgruppe studieren und anhand dessen die anzuwendenden  
+> Instrumente auf die Empfänger abstimmen.  
+> Eigenschaften und Anforderungen verschiedener Zielgruppen können stark variieren.  
+> Es gilt herauszufinden welche Faktoren einen positiven oder negativen Einfluss auf  
+> die jeweilige Zielgruppe haben.  
+
+Informationen über Potentielle Kunden sammeln  
+(Buyer Personas: fiktive, verallgemeinerte Darstellung des idealen Kunden):
+- **wie und wann** fällt die Kaufentscheidung
+- **wo** informieren sie sic
+- **wie** kann man sie erreichen
+
+### Corporate Identity
+> Kommunikationspolitik ist nicht nur Werbung, sondern umfasst Instrumente und Prozesse  
+> der Corporate Identity und des Corporate Image.  
+
+<img src="../images/Projektmanagement/corporate_identity.png">
+
+
+## Bestandteile einer Kommunikationsstrategie
+> Grundlage für ein authentisches Image, das sich langfristig auf die Wahrnehmung  
+> eines Unternehmens auswirkt.  
+> Klare Ziele und Bezug zur Corparate Identity sind besonders wichtig.  
+
+### 1. Kommunikationsziele bestimmen
+> Was soll mit der Strategie erreicht werden?
+
+Definition von Zielen:
+- Brand Awareness
+- Erhöhung der Reichweite
+- Interaktion der Nutzer
+- Transaktion
+- Corporate Image
+- Kundenbindung
+### 2. Ausarbeitung einer Strategie
+> Herausfinden, welche Maßnahmen und Instrumente die Unternehmerischen Ziele  
+> erreichen können.
+
+Festlegung von:
+- passenden Kanäle
+- reichtigem Zeitraum
+- Kommunikationsbotschaften für die Zielgruppe
+
+### 3. Budget festlegen
+> Wie sollen die zur Verfügung stehenden Mittel verteilt werden?
+
+- vorläufiges Budget
+- ggf Überdenken und Anpassen von Maßnahmen   
+  damit die Rentabilität erhalten wird
+
+### 4. Regelmäßige und kontinuierliche Kontrolle
+> In regelmässigen Abständen kontrollieren, ob die Ziele erreicht wurden  
+> und wie effektiv die Maßnahmen waren.  
+> Anhand des AIDA Modells überprüfen, ob für alle Phasen passgenaue Strategien  
+> entwickelt worden sind und angeboten werden.  
+
+## Klassische Kommunikationsinstrumente
+
+<img src="../images/Projektmanagement/kommunikationsinstrumente.png">
+
+### Öffentlichkeitsarbeit (PR)
+Besonders auf das Gesamtimage ausgerichtet:
+- Pressearbeit
+- Kontaktpflege
+- soziales Engagement
+### Persönliche Kommunikation / Persönlicher Verkauf
+> direktes Verkaufsgespräch zwischen Unternehmen und Kunden
+### Klassische Werbung (above-the-line)
+Massentauglich einen Kaufgrund vermitteln:
+- Fernsehen
+- Tageszeitungen
+- Plakate
+### Verkaufsförderung
+Unterstützende Maßnahmen zur Unterstützung des Absatzes eines Produktes
+- Produktproben
+- Gutscheine
+
+## Weiter Kommunikationsinstrumente (below-the-line)
+> Meist parallel und in Abstimmung mit den klassischen Kommunikationsinstrumenten  
+> genutzt.  
+
+Alle Maßnahmen, die sich direkter und persönlicher an die Zielgruppe richen:
+- Sponsoring
+- Eventmarkting
+- Direktmarketing
+- Messen und Ausstellungen
+- Native Advertising
+- Content Marketing
+- Social-Media-Marketing
+
+
+# AIDA Prinzip (Modell)
+
+
+### AIDA-Formel:
+- Attention: Aufmerksamkeit erzeugen
+- Interest: Interesse wecken
+- Desire: Wunsch auslösen
+- Action: Handlung bewirken
+
+<img src="../images/Projektmanagement/aida_prinzip.png">
+
